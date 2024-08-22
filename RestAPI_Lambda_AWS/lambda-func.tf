@@ -10,7 +10,7 @@ resource "aws_lambda_function" "this" {
 
   environment {
     variables = {
-      OWNER_NAME = "Denis Astahov"
+      OWNER_NAME = "Raman Markau"
     }
   }
 }
